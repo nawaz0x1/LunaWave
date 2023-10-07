@@ -69,4 +69,4 @@ The project was developed using the following technologies:
 - [Apollo Passive Seismic Experiment SEED Collection from NASA's Planetary Data System (PDS)](https://pds-geosciences.wustl.edu/lunar/urn-nasa-pds-apollo_pse/)
 - [React-Globe.Gl for Moon Map and Apollo landing locations:](https://github.com/vasturiano/react-globe.gl)
 - [A New Archive of Apollo's Lunar Seismic Data](https://iopscience.iop.org/article/10.3847/PSJ/ac87af)
-- [ObsPy: A Python Toolbox for Seismology](https://github.com/obspy/obspy)`enter code here`
+- [ObsPy: A Python Toolbox for Seismology](https://github.com/obspy/obspy)
