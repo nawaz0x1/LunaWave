@@ -46,6 +46,15 @@ Clicking the tab on the top right corner adds surfaces above the original moon s
 
 Our project solves the challenge by providing a 3D interface for the users to visualize the seismic activity on the moon. Our idea Could one day help enrich astronomy curricula, making the study of Moon phases engaging for learners of all ages. Planetariums and science centers can incorporate it into their exhibits, offering visitors an immersive lunar experience. It can serve as a beacon of curiosity during public outreach events, inspiring interest in astronomy and space science. It is not merely a work of art; it's an educational marvel. It fosters a deeper understanding of astronomy, celestial mechanics, and the intricate interplay between celestial bodies.
 
+### TOOLS USED TO DEVELOP THE PROJECT
+
+The project was developed using the following technologies:
+
+- The web app was built using [ReactJS](https://github.com/facebook/react).
+- The 3D globe and ring-like animations were created using the [React-globe.gl](https://github.com/vasturiano/react-globe.gl) library.
+- The Mineral Composition and Bouguer Disturbance surfaces were taken from [Moon Trek](https://trek.nasa.gov/moon/).
+- [Obspy](https://github.com/obspy/obspy) was used for processing seismic data.
+
 ## Space Agency Data
 
 - [Apollo Seismic Waveform Data from NASA’s Planetary Data System (PDS)](https://pds-geosciences.wustl.edu/missions/apollo/apollo_pse.htm)
